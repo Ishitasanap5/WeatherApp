@@ -1,4 +1,4 @@
-# 🌤️ Modern Weather App
+# 🌤️ Weather App
 
 A sleek, glassmorphism-style weather application that provides real-time weather updates based on city search or the user's current GPS location.
 
